@@ -248,8 +248,8 @@ class RagController extends Controller
             /*
              * تعداد نتایج مرتبط (Context بیشتر جهت تولید پاسخ مفصل‌تر)
              */
-            $topK = 8;
-
+            // $topK = 8;
+               $topK = 4;
             /*
              * جستجوی Semantic
              */
