@@ -214,28 +214,20 @@ FILESYSTEM_DISK=local
 
 ---
 ---
-## ❤️ حمایت مالی از پروژه
-
-
-### 💰 Crypto Donate
 
 
 
 
 
-USDCoin BSC/ 0x10B549E709724bDfC647F7Ea55DD0a99f8007352
 
 
-USDCoin ETH / 0x10B549E709724bDfC647F7Ea55DD0a99f8007352
 
 
-USDCoin SOL / BwrbUDYRxYCaWrp6Xvubq5QVdSb5Xxb2WQVYUy7g8p8b
 
 
 
 **توسعه‌دهنده:** علیرضا فقیریان
 
-از حمایت و همراهی شما سپاسگزارم! ❤️
 
 ## 💾 مدیریت تاریخچه گفتگو
 
